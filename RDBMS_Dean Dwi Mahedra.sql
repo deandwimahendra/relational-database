@@ -18,7 +18,7 @@ values
     (1, 2, 3, 3, 15000);  -- Produk ID 3 dengan jumlah 3 dan harga 15000
     
 -- 5. Menggunakan draw.io untuk membuat ERD
-    --
+    -- "https://drive.google.com/file/d/13QOa8Ni84OgTbFZgTMs_Up8qmpadheA9/view?usp=drive_link"
 
 
 
